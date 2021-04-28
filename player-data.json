@@ -1,0 +1,81 @@
+{
+    "players": [
+      {
+        "id": "Alisson-Becker",
+        "name": "Alisson Becker",
+        "href": "https://www.liverpoolfc.com/team/first-team/player/alisson-becker",
+        "image": "https://d3j2s6hdd6a7rg.cloudfront.net/v2/uploads/media/misc/0002/14/thumb_113591_misc_general_500.jpeg",
+        "position": "goalkeeper"
+      },
+      {
+        "id": "Virgil-Van-Dijk",
+        "name": "Alisson Becker",
+        "href": "https://www.liverpoolfc.com/team/first-team/player/virgil-van-dijk",
+        "image": "https://d3j2s6hdd6a7rg.cloudfront.net/v2/uploads/media/misc/0002/14/thumb_113617_misc_general_500.jpeg",
+        "position": "defender"
+      },
+      {
+        "id": "Andy-Robertson",
+        "name": "Andy Robertson",
+        "href": "https://www.liverpoolfc.com/team/first-team/player/andy-robertson",
+        "image": "https://d3j2s6hdd6a7rg.cloudfront.net/v2/uploads/media/misc/0002/14/thumb_113592_misc_general_500.jpeg",
+        "position": "defender"
+      },
+      {
+        "id": "Joel-Matip",
+        "name": "Joel Matip",
+        "href": "https://www.liverpoolfc.com/team/first-team/player/joel-matip",
+        "image": "https://d3j2s6hdd6a7rg.cloudfront.net/v2/uploads/media/misc/0002/14/thumb_113602_misc_general_500.jpeg",
+        "position": "defender"
+      },
+      {
+        "id": "Trent-Alexander-Arnold",
+        "name": "Trent Alexander Arnold",
+        "href": "https://www.liverpoolfc.com/team/first-team/player/trent-alexander-arnold",
+        "image": "https://d3j2s6hdd6a7rg.cloudfront.net/v2/uploads/media/misc/0002/14/thumb_113616_misc_general_500.jpeg",
+        "position": "defender"
+      },
+      {
+        "id": "Fabinho",
+        "name": "fabinho",
+        "href": "https://www.liverpoolfc.com/team/first-team/player/fabinho",
+        "image": "https://d3j2s6hdd6a7rg.cloudfront.net/v2/uploads/media/misc/0002/14/thumb_113597_misc_general_500.jpeg",
+        "position": "midfielder"
+      },
+      {
+        "id": "Georginio-Wijnaldum",
+        "name": "Georginio Wijnaldum",
+        "href": "https://www.liverpoolfc.com/team/first-team/player/georginio-wijnaldum",
+        "image": "https://d3j2s6hdd6a7rg.cloudfront.net/v2/uploads/media/misc/0002/14/thumb_113598_misc_general_500.jpeg",
+        "position": "midfielder"
+      },
+      {
+        "id": "Jordan-Henderson",
+        "name": "Jordan Henderson",
+        "href": "https://www.liverpoolfc.com/team/first-team/player/jordan-henderson",
+        "image": "https://d3j2s6hdd6a7rg.cloudfront.net/v2/uploads/media/misc/0002/14/thumb_113603_misc_general_500.jpeg",
+        "position": "midfielder"
+      },
+      {
+        "id": "Roberto-Firmino",
+        "name": "Roberto Firmino",
+        "href": "https://www.liverpoolfc.com/team/first-team/player/roberto-firmino",
+        "image": "https://d3j2s6hdd6a7rg.cloudfront.net/v2/uploads/media/misc/0002/14/thumb_113611_misc_general_500.jpeg",
+        "position": "forward"
+      },
+      {
+        "id": "Sadio-Mane",
+        "name": "Sadio Mane",
+        "href": "https://www.liverpoolfc.com/team/first-team/player/sadio-mane",
+        "image": "https://d3j2s6hdd6a7rg.cloudfront.net/v2/uploads/media/misc/0002/14/thumb_113612_misc_general_500.jpeg",
+        "position": "forward"
+      },
+      {
+        "id": "Mohamed-Salah",
+        "name": "Mohamed Salah",
+        "href": "https://www.liverpoolfc.com/team/first-team/player/mohamed-salah",
+        "image": "https://d3j2s6hdd6a7rg.cloudfront.net/v2/uploads/media/misc/0002/14/thumb_113606_misc_general_500.jpeg",
+        "position": "forward"
+      }
+    ]
+  }
